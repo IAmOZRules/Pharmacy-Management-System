@@ -25,5 +25,5 @@ flush privileges;
 8. Once all this is done, run ```nodemon server.js``` in the terminal, and wait for the server to start.
 9. In any browser, type ```localhost:8080``` to start the application.
 
-#### To login, use ```username = tester``` and ``password = tester```.
+#### To login, use ```username = tester``` and ```password = tester```.
 #### NOTE: The "Requests by Patients" tab doesn't yet work! Opening it will crash the application!
